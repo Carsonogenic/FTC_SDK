@@ -2,7 +2,7 @@
 This is the repo that holds all the java android stuff
 To work with the SDK you need [Android Studio](https://developer.android.com/sdk/index.html)
 
-To open it, open android studio, click open project, and then select the folder called FTC_SDK.
+To open this project, open android studio, click open project, and then select the folder called ftc_app-master.
 
 ## Where Things Are :)
 The files that really matter are certain java files that FTC calls OPs.
