@@ -71,6 +71,10 @@ public class FtcOpModeRegister implements OpModeRegister {
      */
     manager.register("NullOp", NullOp.class);
 
+    /*
+     * Gus Caplan's TankBot Op
+     */
+    manager.register("K9TankOp", K9TankOp.class);
 
     /*
      * The following example op modes are designed to work with a K9-style robot.
